@@ -1,2 +1,2 @@
-# huggingface-embeding-chromaDb
-Hugging face Embeding function for Chroma Db  
+# huggingface-embedding-chromaDb
+Hugging face Embeddings function for Chroma Db  
