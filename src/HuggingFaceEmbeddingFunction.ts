@@ -1,7 +1,7 @@
 interface IEmbeddingFunction {
     generate(texts: string[]): Promise<number[][]>;
 }
-export class HuggingFaceEmbeddingFunction implements IEmbeddingFunction {
+export default class HuggingFaceEmbeddingFunction implements IEmbeddingFunction {
     private api_key: string;
     private api_path: string;
 
