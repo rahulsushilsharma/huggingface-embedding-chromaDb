@@ -1,6 +1,6 @@
 {
   "name": "huggingface-embeddings",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "description": "Hugging face Embeddings function for Chroma Db.",
   "exports": {
@@ -43,17 +43,9 @@
   },
   "keywords": [
     "hugging face",
-    "chat",
-    "api",
-    "hugging",
-    "hugging-chat",
-    "LLM",
-    "Llama",
-    "Llama 2",
-    "meta",
-    "node",
-    "huggingface",
-    "huggingface chat"
+    "embeddings",
+    "chroma",
+    "chroma-db"
   ],
   "bugs": {
     "url": "https://github.com/rahulsushilsharma/huggingface-embedding-chromaDb/issues"
